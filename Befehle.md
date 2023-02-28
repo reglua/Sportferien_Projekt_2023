@@ -4,9 +4,9 @@ Datei kopieren
 Scp (Dateiname)
 ```
 
-Mit Server verbinden
+Mit Server über ssh verbinden
 ```
- Ssh User@(Ip von dem Server)
+ ssh User@(Ip von dem Server)
 ```
  
  Instanz Erstellen
