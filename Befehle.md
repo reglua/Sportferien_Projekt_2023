@@ -1,5 +1,5 @@
 ## Häufig verwendete Befehle ##
-Dateien kopieren
+Datei kopieren
 ```
 Scp (Dateiname)
 ```
